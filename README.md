@@ -7,15 +7,6 @@
   <img src="https://img.shields.io/badge/Tech-HTML%2FCSS-blue.svg" alt="Tech Stack">
   <img src="https://img.shields.io/badge/Status-Completed-green.svg" alt="Status">
   <img src="https://img.shields.io/github/last-commit/venkata3204sai/voc-task-1" alt="Last Commit">
-  <img src="https://img.shields.io/github/repo-size/venkata3204sai/voc-task-1" alt="Repo size">
-</p>
-<p align="left">
-  <a href="LICENSE">
-    <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="MIT License">
-  </a>
-  <img src="https://img.shields.io/badge/Tech-HTML%2FCSS-blue.svg" alt="Tech Stack">
-  <img src="https://img.shields.io/badge/Status-Completed-green.svg" alt="Status">
-  <img src="https://img.shields.io/github/last-commit/venkata3204sai/voc-task-1" alt="Last Commit">
   <img src="https://img.shields.io/github/repo-size/venkata3204sai/voc-task-1" alt="Repo Size">
 </p>
 
