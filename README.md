@@ -8,8 +8,11 @@
   <img src="https://img.shields.io/badge/Status-Completed-green.svg" alt="Status">
   <img src="https://img.shields.io/github/last-commit/venkata3204sai/voc-task-1" alt="Last Commit">
   <img src="https://img.shields.io/github/repo-size/venkata3204sai/voc-task-1" alt="Repo Size">
+  <img src="https://img.shields.io/badge/Internship-Vault%20of%20Codes-blueviolet" alt="Vault of Codes Internship">
 </p>
 
+**This project was developed as part of my Frontend Web Development Internship at Vault of Codes.**  
+**Live Demo:** https://venkata3204sai.github.io/voc-task-1/
 
 A clean, responsive **personal portfolio website** built with HTML and CSS.  
 The site features sections for About Me, Skills, Projects, and Contact, with smooth scrolling navigation and modern UI styling.
@@ -66,8 +69,13 @@ python -m http.server 8000
 <img width="1887" height="978" alt="{C79BAA47-7433-4A89-9D82-148655AE1835}" src="https://github.com/user-attachments/assets/95ad3378-4c59-420a-b710-0c6f7f658ecb" />
 <img width="1892" height="980" alt="{FBB2517D-60E1-485D-8F9B-A8D7183732CB}" src="https://github.com/user-attachments/assets/8762b3d7-377d-4c0f-825e-36dcfcfab972" />
 
+## Internship Acknowledgment
 
+This project was created as an official task for my **Frontend Web Development Internship at Vault of Codes**.  
+The goal of the internship was to build real-world, responsive web interfaces using HTML, CSS, and JavaScript while strengthening UI/UX design fundamentals.
 
+You can view the live hosted version here:  
+**GitHub Pages:** https://venkata3204sai.github.io/voc-task-1/
 
 ## License
 This project is licensed under the MIT License.
