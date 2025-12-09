@@ -60,3 +60,15 @@ python -m http.server 8000
 - HTML5
 - CSS3 (Flexbox, Grid, Custom properties)
 - No frameworks, no JavaScript required
+
+## Preview
+<img width="1891" height="979" alt="{8A89BDF6-6C5D-4DCC-9C66-2E852D75D998}" src="https://github.com/user-attachments/assets/5fa5584e-1e4e-4d67-b6e6-fc0f54e06dc5" />
+<img width="1887" height="978" alt="{C79BAA47-7433-4A89-9D82-148655AE1835}" src="https://github.com/user-attachments/assets/95ad3378-4c59-420a-b710-0c6f7f658ecb" />
+<img width="1892" height="980" alt="{FBB2517D-60E1-485D-8F9B-A8D7183732CB}" src="https://github.com/user-attachments/assets/8762b3d7-377d-4c0f-825e-36dcfcfab972" />
+
+
+
+
+## License
+This project is licensed under the MIT License.
+See the [LICENSE](LICENSE) file for details.
