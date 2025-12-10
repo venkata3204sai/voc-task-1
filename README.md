@@ -12,7 +12,7 @@
 </p>
 
 **This project was developed as part of my Frontend Web Development Internship at Vault of Codes.**  
-**Live Demo:** https://venkata3204sai.github.io/voc-task-1/
+**Live Demo:** https://venkata3204sai.github.io/Personal-Portfolio-Website/
 
 A clean, responsive **personal portfolio website** built with HTML and CSS.  
 The site features sections for About Me, Skills, Projects, and Contact, with smooth scrolling navigation and modern UI styling.
@@ -49,8 +49,8 @@ voc-task-1/
 
 Just open the HTML file:
 ```bash
-git clone https://github.com/venkata3204sai/voc-task-1
-cd voc-task-1
+git clone https://github.com/venkata3204sai/Personal-Portfolio-Website
+cd Personal-Portfolio-Website
 open index.html
 ```
 OR run a static server:
@@ -75,7 +75,7 @@ This project was created as an official task for my **Frontend Web Development I
 The goal of the internship was to build real-world, responsive web interfaces using HTML, CSS, and JavaScript while strengthening UI/UX design fundamentals.
 
 You can view the live hosted version here:  
-**GitHub Pages:** https://venkata3204sai.github.io/voc-task-1/
+**GitHub Pages:** https://venkata3204sai.github.io/Personal-Portfolio-Website/
 
 ## License
 This project is licensed under the MIT License.
